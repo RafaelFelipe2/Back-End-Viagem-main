@@ -1,0 +1,24 @@
+{
+  "name": "back-end-viagem",
+  "version": "1.0.0",
+  "description": "Backend de Pacotes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelFelipe2/backend-para-o-sistema-de-gest-o-de-viagens.git"
+  },
+  "author": "Rafael Gobetti Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelFelipe2/backend-para-o-sistema-de-gest-o-de-viagens/issues"
+  },
+  "homepage": "https://github.com/RafaelFelipe2/backend-para-o-sistema-de-gest-o-de-viagens#readme",
+  "dependencies": {
+    "mysql2": "^3.12.0"
+  }
+}
